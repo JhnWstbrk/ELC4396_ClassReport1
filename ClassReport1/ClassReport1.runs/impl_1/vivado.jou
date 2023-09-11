@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Sun Sep 10 21:37:56 2023
+# Process ID: 25236
+# Current directory: C:/Users/john_westbrook1/OneDrive - Baylor University/Engineering/System on Chip/Vivado/ClassReport1/ClassReport1.runs/impl_1
+# Command line: vivado.exe -log top_hex_display_mux.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top_hex_display_mux.tcl -notrace
+# Log file: C:/Users/john_westbrook1/OneDrive - Baylor University/Engineering/System on Chip/Vivado/ClassReport1/ClassReport1.runs/impl_1/top_hex_display_mux.vdi
+# Journal file: C:/Users/john_westbrook1/OneDrive - Baylor University/Engineering/System on Chip/Vivado/ClassReport1/ClassReport1.runs/impl_1\vivado.jou
+# Running On: ROG-115-04, OS: Windows, CPU Frequency: 2112 MHz, CPU Physical cores: 12, Host memory: 34033 MB
+#-----------------------------------------------------------
+source top_hex_display_mux.tcl -notrace
